@@ -1,5 +1,7 @@
 body {
- background-color: rgb(209, 233, 233);
+ margin: 0;
+ padding: 0;
+  background-color: rgb(209, 233, 233);
 }
 
 code {
